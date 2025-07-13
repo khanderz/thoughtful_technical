@@ -14,9 +14,9 @@ Requires version 3.10 or higher because of the match statement in sort function.
 
 each package must be dispatched to one of three categories:
 
-- **STANDARD**: not bulky and not heavy  
-- **SPECIAL**: bulky or heavy (but not both)  
-- **REJECTED**: both bulky and heavy
+- **STANDARD**: not bulky AND not heavy  
+- **SPECIAL**: bulky OR heavy 
+- **REJECTED**: bulky AND heavy
 
 
 
